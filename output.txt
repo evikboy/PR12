@@ -1,0 +1,44 @@
+k = 2
+xmin = 1
+xmax = 20
+dx = 0,5
+
+Can't be calculated when x = 1
+Can't be calculated when x = 1,5
+Can't be calculated when x = 2
+Can't be calculated when x = 2,5
+Can't be calculated when x = 3
+When x = 3,5, Z = -0,747679224004287
+Can't be calculated when x = 4
+Can't be calculated when x = 4,5
+Can't be calculated when x = 5
+Can't be calculated when x = 5,5
+Can't be calculated when x = 6
+When x = 6,5, Z = 0,246079514016308
+When x = 7, Z = -13,972621283832
+Can't be calculated when x = 7,5
+Can't be calculated when x = 8
+Can't be calculated when x = 8,5
+Can't be calculated when x = 9
+When x = 9,5, Z = 1,35453491084676
+When x = 10, Z = -3,71591060564805
+Can't be calculated when x = 10,5
+Can't be calculated when x = 11
+Can't be calculated when x = 11,5
+Can't be calculated when x = 12
+Can't be calculated when x = 12,5
+When x = 13, Z = -1,43982956986062
+Can't be calculated when x = 13,5
+Can't be calculated when x = 14
+Can't be calculated when x = 14,5
+Can't be calculated when x = 15
+Can't be calculated when x = 15,5
+When x = 16, Z = -0,253503104314758
+Can't be calculated when x = 16,5
+Can't be calculated when x = 17
+Can't be calculated when x = 17,5
+Can't be calculated when x = 18
+Can't be calculated when x = 18,5
+When x = 19, Z = 0,691747041293737
+When x = 19,5, Z = -6,57914634966735
+Can't be calculated when x = 20

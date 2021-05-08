@@ -1,0 +1,7 @@
+C:\Users\Ez\source\repos\PR12\PR12\bin\Debug\PR12.exe.config
+C:\Users\Ez\source\repos\PR12\PR12\bin\Debug\PR12.exe
+C:\Users\Ez\source\repos\PR12\PR12\bin\Debug\PR12.pdb
+C:\Users\Ez\source\repos\PR12\PR12\obj\Debug\PR12.csprojAssemblyReference.cache
+C:\Users\Ez\source\repos\PR12\PR12\obj\Debug\PR12.csproj.CoreCompileInputs.cache
+C:\Users\Ez\source\repos\PR12\PR12\obj\Debug\PR12.exe
+C:\Users\Ez\source\repos\PR12\PR12\obj\Debug\PR12.pdb
